@@ -1,0 +1,16 @@
+{
+  "name": "aerospike-leak",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "build": "yarn install --force"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aerospike": "^3.16.0",
+    "bluebird": "^3.7.2"
+  },
+  "devDependencies": {}
+}
